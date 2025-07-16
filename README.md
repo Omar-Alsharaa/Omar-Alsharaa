@@ -25,5 +25,4 @@ Passionate about building real-world applications and learning new technologies.
 ---
 
 ## 📊 GitHub Stats
-
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarAlshare1&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omaralshare1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
