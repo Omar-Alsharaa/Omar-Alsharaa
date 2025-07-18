@@ -48,7 +48,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralshare1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </p>
 
