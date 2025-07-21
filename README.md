@@ -74,7 +74,3 @@
 </p>
 
 ---
-
-This updated version organizes your skills, adds dynamic badges for a more lively feel, and includes a "Featured Projects" section where you can highlight your work, similar to what makes Maria-Eduarda90's profile engaging.
-
-Let me know what you think after you've updated it!
