@@ -13,7 +13,6 @@
 
 ### About Me:
 * 🌍 I'm based in **England**
-* 🚀 I'm currently working on [**Hajiz**](http://hajiz.co.uk), a real-world application.
 * 🧠 I'm deep diving into **Kali Linux** and **advanced network security concepts**.
 * 🌱 I'm always eager to learn new skills and contribute to impactful projects.
 
