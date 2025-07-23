@@ -49,11 +49,6 @@
 
 ### 📈 GitHub Stats
 
-<div align="center" >
-<img src="https://github-profile-trophy.vercel.app/?username=Omar-Alsharaa&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  <br />
-
 [![Omar-Alsharaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omar-Alsharaa&bg_color=red&color=bd93f9&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
