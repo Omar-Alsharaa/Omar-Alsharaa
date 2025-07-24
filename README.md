@@ -54,7 +54,6 @@
 <p align="center">
 <a href="https://github.com/Omar-Alsharaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Alsharaa&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=13" alt="GitHub language stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omar-Alsharaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </a>
 </p>
 
