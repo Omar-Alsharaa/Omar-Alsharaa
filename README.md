@@ -64,6 +64,12 @@
 </p>
 
 ---
+### TryHackMe Profile
+<img src="https://tryhackme-badges.s3.amazonaws.com/26200309.png" alt="TryHackMe Badge" />
+
+
+
+
 
 ### 🌐 Let's Connect!
 
